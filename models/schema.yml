@@ -2,7 +2,11 @@ version: 2
 
 models:
   - name: customers
-    description: One record per customer
+    description: |
+      ### Lorem ipsum
+
+      * dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      * tempor incididunt ut labore et dolore magna aliqua.
     columns:
       - name: customer_id
         description: Primary key
